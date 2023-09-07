@@ -1,0 +1,8 @@
+pipeline {
+
+  agents any
+  
+
+    stage {
+    }
+}
